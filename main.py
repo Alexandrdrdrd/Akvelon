@@ -11,5 +11,4 @@ class NumberFormatter:
             return "Invalid input format"
 
 
-my_object = NumberFormatter()
-print(my_object.parseInt(""))
+
